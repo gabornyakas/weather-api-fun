@@ -1,0 +1,14 @@
+{
+  "name": "weather-api-fun",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript web application that retrieves the current weather for a specified city using a public API.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
